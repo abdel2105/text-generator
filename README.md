@@ -16,19 +16,19 @@ El código fuente del proyecto se encuentra en la carpeta components. Algunas pa
 ## Instalación y configuración
 1. Clonar el repositorio
 
-** git clone https://github.com/abdel2105/text-generator.git
+ **git clone https://github.com/abdel2105/text-generator.git**
  
- cd text-generator**
+ **cd text-generator**
 
 2. Instalar dependencias
   Asegúrate de tener Node.js y npm instalados. Luego, ejecuta el siguiente comando para instalar las dependencias necesarias:
 
-**  npm install**
+  **npm install**
 
 4. Ejecutar la aplicación localmente
   Después de instalar las dependencias, puedes ejecutar la aplicación localmente con:
   
-**  npm run dev**
+  **npm run dev**
   
   Esto iniciará un servidor de desarrollo, y la aplicación estará disponible en http://localhost:3000.
 
