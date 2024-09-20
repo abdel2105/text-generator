@@ -35,7 +35,11 @@ Esto iniciará un servidor de desarrollo, y la aplicación estará disponible en
 
 ## Tecnologías utilizadas
 Next.js: Framework de React para la creación de aplicaciones web.
+
 TypeScript: Para asegurar la tipificación estática en el proyecto.
+
 Hugging Face API: Para la generación de texto utilizando modelos pre-entrenados de IA.
+
 Axios: Para hacer peticiones HTTP a la API de Hugging Face.
+
 CSS: Para el diseño y la apariencia de la aplicación.
