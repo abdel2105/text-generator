@@ -1,4 +1,4 @@
-### Text Generator Web App
+# Text Generator Web App
 Este es un proyecto de generación de texto desarrollado en Next.js utilizando la API de Hugging Face para generar textos a partir de una entrada proporcionada por el usuario.
 
 ## Demo en vivo
