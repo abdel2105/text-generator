@@ -10,28 +10,27 @@ Estructura del Proyecto
 El código fuente del proyecto se encuentra en la carpeta components. Algunas partes clave incluyen:
 
 /ui: Donde estan las plantillas de los botones y de las viñetas.
+
 /text-generator.tsx: Contiene las páginas de la aplicación según la estructura de Next.js. La página principal se encuentra en index.tsx.
 
 ## Instalación y configuración
 1. Clonar el repositorio
-bash
-Copy code
-git clone https://github.com/abdel2105/text-generator.git
-cd text-generator
 
-3. Instalar dependencias
-Asegúrate de tener Node.js y npm instalados. Luego, ejecuta el siguiente comando para instalar las dependencias necesarias:
-bash
-Copy code
-npm install
+** git clone https://github.com/abdel2105/text-generator.git
+ 
+ cd text-generator**
+
+2. Instalar dependencias
+  Asegúrate de tener Node.js y npm instalados. Luego, ejecuta el siguiente comando para instalar las dependencias necesarias:
+
+**  npm install**
 
 4. Ejecutar la aplicación localmente
-Después de instalar las dependencias, puedes ejecutar la aplicación localmente con:
-
-bash
-Copy code
-npm run dev
-Esto iniciará un servidor de desarrollo, y la aplicación estará disponible en http://localhost:3000.
+  Después de instalar las dependencias, puedes ejecutar la aplicación localmente con:
+  
+**  npm run dev**
+  
+  Esto iniciará un servidor de desarrollo, y la aplicación estará disponible en http://localhost:3000.
 
 ## Tecnologías utilizadas
 Next.js: Framework de React para la creación de aplicaciones web.
