@@ -11,7 +11,7 @@ El código fuente del proyecto se encuentra en la carpeta components. Algunas pa
 
 /ui: Donde estan las plantillas de los botones y de las viñetas.
 
-/text-generator.tsx: Contiene las páginas de la aplicación según la estructura de Next.js. La página principal se encuentra en index.tsx.
+/text-generator.tsx: Contiene las página principal.
 
 ## Instalación y configuración
 1. Clonar el repositorio
@@ -41,4 +41,4 @@ Hugging Face API: Para la generación de texto utilizando modelos pre-entrenados
 
 Axios: Para hacer peticiones HTTP a la API de Hugging Face.
 
-CSS: Para el diseño y la apariencia de la aplicación.
+Tailwind css: Para el diseño y la apariencia de la aplicación.
