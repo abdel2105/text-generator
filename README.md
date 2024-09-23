@@ -16,7 +16,7 @@ El código fuente del proyecto se encuentra en la carpeta components. Algunas pa
 ## Instalación y configuración
 1. Clonar el repositorio
 
- ```git clone https://github.com/abdel2105/text-generator.git```
+ ```git clone https://github.com/abdel2105/text-generator.git
  
  cd text-generator```
 
